@@ -1,2 +1,5 @@
 •	Information Technology & Control
 PC member of PGM-16
+
+
+I obtained my Ph.D degree of Computer Science in QMUL in 2015. My advisor was Prof. Tao Li. During the 5 years Ph.D. study, I worked on Bayesian network learning and Transfer learning.  Before that, I received the master's degree in NUDT in P.R. China in 2011. My master degree's advisor was Prof. Weiming Zhang. 
